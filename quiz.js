@@ -17,4 +17,6 @@ function checkAnswer() {
     }
 }
 
-document.getElementById("submit-answer").addEventListener("click", checkAnswer);
+document
+    .getElementById("submit-answer")
+    .addEventListener("click", checkAnswer);
